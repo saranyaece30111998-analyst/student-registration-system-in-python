@@ -43,3 +43,23 @@ print(f"Type of student_name : {type(student_name)}")
 print(f"Type of student_age  : {type(student_age)}")
 print(f"Type of course_fee   : {type(course_fee)}")
 print(f"Type of total_fee    : {type(total_fee)}")
+
+Enter student name: Saranya
+Enter student age: 27
+Enter course name: Data Analyst
+Enter course fee: 45000
+
+--- Student Details ---
+Name       : Saranya
+Age        : 27
+Course     : Data Analyst
+Course Fee : 45000.00
+GST (18%)  : 8100.00
+Total Fee  : 53100.00
+
+--- Data Types ---
+Type of student_name : <class 'str'>
+Type of student_age  : <class 'int'>
+Type of course_fee   : <class 'float'>
+Type of total_fee    : <class 'float'>
+
